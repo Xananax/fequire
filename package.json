@@ -1,0 +1,24 @@
+{
+  "name": "fequire",
+  "version": "0.5.0",
+  "description": "require() replacement, with possible custom context, and possible async",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xananax/fequire.git"
+  },
+  "keywords": [
+    "require",
+    "load",
+    "module"
+  ],
+  "author": "xananax@yelostudio.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xananax/fequire/issues"
+  },
+  "homepage": "https://github.com/Xananax/fequire"
+}
